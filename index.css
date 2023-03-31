@@ -1,0 +1,19 @@
+
+h1.a {
+    
+    text-align: center;
+}
+img{
+    width: max-content;
+}
+button.b {
+    text-align: right;
+    font-size: large;
+}
+
+button.b:hover{
+    background-color: snow;
+}
+button.c{
+    font-size: 25px;
+}
